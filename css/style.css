@@ -51,8 +51,10 @@ body{
     border: 1px solid rgb(43, 42, 42);
     text-align: left;
     font-family: system-ui;
-    padding: 3% 25%;
     border-radius: 5px;
+    text-align: left;
+    padding: 3% 3%;
+    width: 90%;
     font-weight: 500;
 }
 .campos {
