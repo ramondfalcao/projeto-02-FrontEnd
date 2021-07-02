@@ -24,7 +24,7 @@ input:hover{
     cursor: pointer;
     background-color: rgb(30, 197, 38);     
     /* font-size: 20px; */
-    transform: skewY(2deg);
+    transform: skewY(4deg);
     /* transform: scaleY(0.5) */
 }
 
