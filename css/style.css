@@ -82,6 +82,7 @@ body{
     margin-bottom: 10%;
     display: inline;
     width: 5%;
+    align-items: center;
 }
 
 
@@ -128,6 +129,7 @@ input{
 }
 input[type="checkbox"]{
     width: 4%;
+    padding-left: -10px;
 }
 
 .button-spotly{
