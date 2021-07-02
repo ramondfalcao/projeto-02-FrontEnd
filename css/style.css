@@ -7,7 +7,7 @@
 body{
     margin: auto 30%;
     background-color: whitesmoke;
-  
+   
 }
 .caixa-logo{
     display: block;
@@ -49,13 +49,18 @@ body{
 
 .form input{
     border: 1px solid rgb(43, 42, 42);
-    text-align: left;
+    /* text-align: left; */
     font-family: system-ui;
     border-radius: 5px;
     text-align: left;
     padding: 3% 3%;
     width: 90%;
     font-weight: 500;
+}
+
+#data{
+    width: 35%;
+    margin-left: 5%;
 }
 .campos {
     text-align: center;
@@ -74,7 +79,10 @@ body{
 }
 .termos{
     margin-bottom: 10%;
+    display: inline;
+    width: 5%;
 }
+
 
 .button{
     text-align: center;
@@ -121,6 +129,7 @@ input{
 .button-spotly{
     transition: 0.4s;
 }
+
 
 
 
