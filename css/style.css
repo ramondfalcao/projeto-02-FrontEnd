@@ -126,6 +126,9 @@ body{
 input{
     transition: 0.4s;
 }
+input[type="checkbox"]{
+    width: 4%;
+}
 
 .button-spotly{
     transition: 0.4s;
