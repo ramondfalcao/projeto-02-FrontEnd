@@ -1,0 +1,11 @@
+#slide-form{
+    animation-duration: 1s;
+    animation-name: slide;
+}
+
+@keyframes slide{
+    from {
+        margin-top: -100%;
+    }
+    
+}
