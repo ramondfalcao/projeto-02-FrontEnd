@@ -57,6 +57,7 @@ body{
     padding: 3% 3%;
     width: 90%;
     font-weight: 500;
+    border: 0;
 }
 
 #data{
@@ -121,7 +122,7 @@ body{
 }
 
 ::placeholder{
-    color: black;
+    color: rgb(119, 116, 116);
 }
 
 input{
