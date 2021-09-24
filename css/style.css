@@ -6,7 +6,7 @@
 
 body{
     margin: auto 30%;
-    background-image: linear-gradient(to left, rgba(30, 138, 8, 0.822) , rgb(201 252 188 / 0%));
+   
 }
 .caixa-logo{
     display: block;
@@ -135,8 +135,5 @@ input[type="checkbox"]{
 .button-spotly{
     transition: 0.4s;
 }
-
-
-
 
 
